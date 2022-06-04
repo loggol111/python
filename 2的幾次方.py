@@ -1,5 +1,4 @@
-#my email address github-loggol111@outlook.com 
-#If you have some problem please use it
+#My email address :"github-loggol111@outlook.com "if you have some problem please use it
 num=10
 for a in range(num):
 x=int(input())
